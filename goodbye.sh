@@ -1,1 +1,1 @@
-echo "See you later, aligator !"
+echo "See you later !"
