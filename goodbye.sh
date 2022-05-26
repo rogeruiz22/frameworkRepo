@@ -1,1 +1,1 @@
-echo "Chau"
+echo "Nazdar"
