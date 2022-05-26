@@ -1,1 +1,1 @@
-echo "Nazdar"
+echo "See you later, aligator !"
